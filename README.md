@@ -116,12 +116,6 @@ ai-chatbot/
 │   ├── test_api.py
 │   └── test_tools.py
 │
-├── screenshots/
-│   ├── chatbot.png
-│   ├── streaming.png
-│   ├── database.png
-│   └── api-docs.png
-│
 ├── .env
 ├── .gitignore
 ├── requirements.txt
